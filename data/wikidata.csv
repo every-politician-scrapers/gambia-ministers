@@ -1,1 +1,6 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q1888110,Mamadou Tangara,Mamadou Tangara,male,1965-06-04,11,,,Q1407477,Minister of Foreign Affairs,Q1888110-C0A1032E-317A-4727-81FA-D533DC50BD92
+Q22006596,Mambury Njie,Mambury Njie,male,1962-06-27,11,,,Q16149634,Minister of Finance,Q22006596-4CE85D39-5556-4962-8F46-020A648037CD
+Q27541581,Isatou Touray,Isatou Touray,female,1955-03-17,11,,,Q1533524,Vice President of the Gambia,Q27541581-3a32240d-c6b7-41f2-80a0-55588e9073a5
+Q28531806,Yankuba Sonko,Yankuba Sonko,male,1950-01-01,7,,,Q30600272,Minister of the Interior,Q28531806-AA8A937F-F642-42AF-88C0-567411252EEA
+Q710820,Ousainou Darboe,Ousainou Darboe,male,1948-08-08,11,,,Q30612255,Minister of Women's Affairs,Q710820-9659fe53-4757-ae64-0c7f-f6bd6a87bd6c
