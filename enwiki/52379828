@@ -138,7 +138,14 @@
         {
           "sentences": [
             {
-              "text": "In November 2021, Adama Barrow announced his candidacy for the 2021 presidential election."
+              "text": "In November 2021, Adama Barrow announced his candidacy for the 2021 presidential election.",
+              "links": [
+                {
+                  "text": "2021 presidential election",
+                  "type": "internal",
+                  "page": "2021 Gambian presidential election"
+                }
+              ]
             }
           ]
         }
