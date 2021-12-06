@@ -138,7 +138,7 @@
         {
           "sentences": [
             {
-              "text": "In November 2021, Adama Barrow announced his candidacy for the 2021 presidential election.",
+              "text": "In November 2021, Adama Barrow announced his candidacy for the 2021 presidential election, and was re-elected.",
               "links": [
                 {
                   "text": "2021 presidential election",
@@ -317,6 +317,16 @@
           "url-status": "dead",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "2021-12-05",
+          "title": "Gambia elections: Adama Barrow declared presidential election winner",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/world-africa-59542813",
+          "access-date": "2021-12-05",
+          "template": "citation",
+          "type": "news"
         },
         {
           "url": "http://www.africanews.com/2017/02/18/gambia-adama-barrow-sworn-in",
