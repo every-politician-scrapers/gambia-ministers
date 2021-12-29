@@ -81,6 +81,10 @@
       ],
       "templates": [
         {
+          "description": "Vice President of the Gambia",
+          "template": "short description"
+        },
+        {
           "year": "1955",
           "month": "3",
           "day": "17",
