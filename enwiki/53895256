@@ -132,22 +132,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.chr.up.ac.za/index.php/browse-by-subject/309-the-gambia-denton-v-the-director-general-national-intelligence-agency-and-others-2006-ahrlr-241-gahc-2006.html",
-          "title": "The Gambia: Denton v The Director-General, National Intelligence Agency and Others (2006) AHRLR 241 (GaHC 2006)",
-          "website": "Centre for Human Rights, University of Pretoria",
-          "access-date": "28 April 2017",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
