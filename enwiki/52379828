@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Adama Barrow (born 15 February 1965) is a Gambian politician and real estate developer who is the President of the Gambia, in office since 2017.",
+              "text": "Adama Barrow (born 15 February 1965) is a Gambian politician and real estate developer who has served as President of the Gambia since 2017.",
               "links": [
                 {
                   "text": "Gambian",
@@ -61,13 +61,20 @@
               "text": "He then worked for Alhagie Musa Njie & Sons, a Gambian energy company, where he became a sales manager."
             },
             {
-              "text": "Moving to London in the early 2000s, Barrow studied for qualifications in real estate and concurrently worked as a security guard."
+              "text": "Moving to London in the early 2000s, Barrow studied for qualifications in real estate and concurrently worked as a security guard for Argos.",
+              "links": [
+                {
+                  "text": "Argos",
+                  "type": "internal",
+                  "page": "Argos (retailer)"
+                }
+              ]
             },
             {
-              "text": "After returning to the Gambia in 2006, he founded Majum Real Estate and was its CEO until 2016."
+              "text": "After returning to the Gambia in 2006, he founded Majum Real Estate and was the CEO until 2016."
             },
             {
-              "text": "He became the treasurer of the United Democratic Party, an opposition party, and then became its leader in September 2016 after the previous leader was jailed.",
+              "text": "He became the treasurer of the United Democratic Party, an opposition party, and then became party leader in September 2016 after the previous leader was jailed.",
               "links": [
                 {
                   "text": "United Democratic Party",
