@@ -1,120 +1,15 @@
 {
-  "title": "Yankuba Sonko",
-  "pageID": 53450506,
-  "categories": [
-    "Living people",
-    "Gambian police officers",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Yankuba Sonko is a Gambian police officer who was the Inspector General of Police in the Gambia from 2010 to 2014, and from 2015 to 2017.",
-              "links": [
-                {
-                  "text": "Inspector General of Police",
-                  "type": "internal",
-                  "page": "Gambia Police Force"
-                },
-                {
-                  "text": "the Gambia",
-                  "type": "internal",
-                  "page": "the Gambia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Yankuba Sonko"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Yankuba Sonko"
-          },
-          "office": {
-            "text": "Inspector General of Police"
-          },
-          "image": {
-            "text": "File:Yankuba Sonko (2011).jpg"
-          },
-          "predecessor": {
-            "text": "Benjamin Wilson",
-            "links": [
-              {
-                "text": "Benjamin Wilson",
-                "type": "internal",
-                "page": "Benjamin Wilson (police officer)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Yahya Jammeh Adama Barrow",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yahya Jammeh"
-              },
-              {
-                "type": "internal",
-                "page": "Adama Barrow"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Landing Kinteh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Landing Kinteh"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Ensa Badjie"
-          },
-          "president1": {
-            "text": "Yahya Jammeh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yahya Jammeh"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Benjamin Wilson",
-            "links": [
-              {
-                "text": "Benjamin Wilson",
-                "type": "internal",
-                "page": "Benjamin Wilson (police officer)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "13 July 2015"
-          },
-          "term_end": {
-            "text": "22 June 2017"
-          },
-          "term_start1": {
-            "text": "2 March 2010"
-          },
-          "term_end1": {
-            "text": "27 November 2014"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Yankuba Sonko",
+  "office": "Inspector General of Police",
+  "image": "File:Yankuba Sonko (2011).jpg",
+  "predecessor": "Benjamin Wilson",
+  "president": "Yahya Jammeh Adama Barrow",
+  "successor": "Landing Kinteh",
+  "predecessor1": "Ensa Badjie",
+  "president1": "Yahya Jammeh",
+  "successor1": "Benjamin Wilson",
+  "term_start": "13 July 2015",
+  "term_end": "22 June 2017",
+  "term_start1": "2 March 2010",
+  "term_end1": "27 November 2014"
 }

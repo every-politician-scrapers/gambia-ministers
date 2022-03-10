@@ -1,221 +1,32 @@
 {
-  "title": "Mambury Njie",
-  "pageID": 48807415,
-  "categories": [
-    "Living people",
-    "1962 births",
-    "Finance ministers of the Gambia",
-    "Government ministers of the Gambia",
-    "Ambassadors of the Gambia to Taiwan"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mambury Njie (born 27 June 1962) is a Gambian politician and the current Minister of Finance and Economic Affairs in Adama Barrow's cabinet.",
-              "links": [
-                {
-                  "text": "Minister of Finance and Economic Affairs",
-                  "type": "internal",
-                  "page": "Minister of Finance and Economic Affairs (Gambia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Adama Barrow"
-                },
-                {
-                  "text": "cabinet",
-                  "type": "internal",
-                  "page": "Cabinet of Adama Barrow"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mambury Njie"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1962",
-          "month": "6",
-          "day": "27",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mambury Njie"
-          },
-          "office": {
-            "text": "Minister of Finance and Economic Affairs",
-            "links": [
-              {
-                "text": "Minister of Finance and Economic Affairs",
-                "type": "internal",
-                "page": "Minister of Finance and Economic Affairs (Gambia)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "9 July 2018"
-          },
-          "president": {
-            "text": "Adama Barrow",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adama Barrow"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Amadou Sanneh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amadou Sanneh"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "27 January 2011"
-          },
-          "term_end1": {
-            "text": "23 April 2012"
-          },
-          "president1": {
-            "text": "Yahya Jammeh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yahya Jammeh"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Abdou Kolley",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdou Kolley"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Abdou Kolley"
-          },
-          "office2": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs (The Gambia)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "23 April 2012"
-          },
-          "term_end2": {
-            "text": "23 August 2012"
-          },
-          "president2": {
-            "text": "Yahya Jammeh"
-          },
-          "predecessor2": {
-            "text": "Mamadou Tangara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mamadou Tangara"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Mamadou Tangara"
-          },
-          "office3": {
-            "text": "Minister of Economic Planning and Industrial Development"
-          },
-          "term_start3": {
-            "text": "July 2010"
-          },
-          "term_end3": {
-            "text": "February 2011"
-          },
-          "president3": {
-            "text": "Yahya Jammeh"
-          },
-          "office4": {
-            "text": "Secretary General Head of the Civil Service"
-          },
-          "term_start4": {
-            "text": "June 2005"
-          },
-          "term_end4": {
-            "text": "October 2006"
-          },
-          "president4": {
-            "text": "Yahya Jammeh"
-          },
-          "birth_date": {
-            "text": "June 27, 1962"
-          },
-          "birth_place": {
-            "text": "Banjul, The Gambia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Banjul"
-              },
-              {
-                "type": "internal",
-                "page": "The Gambia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Gambian"
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "East Stroudsburg University of Pennsylvania Columbia University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "East Stroudsburg University of Pennsylvania"
-              },
-              {
-                "type": "internal",
-                "page": "Columbia University"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Economist"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mambury Njie",
+  "office": "Minister of Finance and Economic Affairs",
+  "term_start": "9 July 2018",
+  "president": "Adama Barrow",
+  "predecessor": "Amadou Sanneh",
+  "term_start1": "27 January 2011",
+  "term_end1": "23 April 2012",
+  "president1": "Yahya Jammeh",
+  "predecessor1": "Abdou Kolley",
+  "successor1": "Abdou Kolley",
+  "office2": "Minister of Foreign Affairs",
+  "term_start2": "23 April 2012",
+  "term_end2": "23 August 2012",
+  "president2": "Yahya Jammeh",
+  "predecessor2": "Mamadou Tangara",
+  "successor2": "Mamadou Tangara",
+  "office3": "Minister of Economic Planning and Industrial Development",
+  "term_start3": "July 2010",
+  "term_end3": "February 2011",
+  "president3": "Yahya Jammeh",
+  "office4": "Secretary General Head of the Civil Service",
+  "term_start4": "June 2005",
+  "term_end4": "October 2006",
+  "president4": "Yahya Jammeh",
+  "birth_date": "June 27, 1962",
+  "birth_place": "Banjul, The Gambia",
+  "nationality": "Gambian",
+  "party": "Independent",
+  "alma_mater": "East Stroudsburg University of Pennsylvania Columbia University",
+  "profession": "Economist"
 }
