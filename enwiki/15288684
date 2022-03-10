@@ -1,325 +1,39 @@
 {
-  "title": "Hassan Bubacar Jallow",
-  "pageID": 15288684,
-  "categories": [
-    "1951 births",
-    "Alumni of University College London",
-    "Gambian judges",
-    "Gambian lawyers",
-    "International Criminal Tribunal for Rwanda prosecutors",
-    "Living people",
-    "Special Court for Sierra Leone judges",
-    "Government ministers of the Gambia",
-    "Chief Justices of the Gambia",
-    "Gambian judges of United Nations courts and tribunals"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Hassan Bubacar Jallow (born 14 August 1951) is a Gambian judge who has served as Chief Justice of the Gambia since February 2017.",
-              "links": [
-                {
-                  "text": "Gambian",
-                  "type": "internal",
-                  "page": "The Gambia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chief Justice of the Gambia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Hassan Bubacar Jallow"
-                ]
-              }
-            },
-            {
-              "text": "He was the Prosecutor of the International Criminal Tribunal for Rwanda (ICTR) from 2003 to 2016, and Prosecutor of the Mechanism for International Criminal Tribunals (MICT) from 2012 to 2016, both at the rank of United Nations Under Secretary-General.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "International Criminal Tribunal for Rwanda"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mechanism for International Criminal Tribunals"
-                }
-              ]
-            },
-            {
-              "text": "He served as Minister of Justice and Attorney General from 1984 to 1994 under President Dawda Jawara.",
-              "links": [
-                {
-                  "text": "Minister of Justice",
-                  "type": "internal",
-                  "page": "Minister of Justice (The Gambia)"
-                },
-                {
-                  "text": "Attorney General",
-                  "type": "internal",
-                  "page": "Attorney General of the Gambia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Dawda Jawara"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1951",
-          "month": "08",
-          "day": "14",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Hassan B. Jallow"
-          },
-          "image": {
-            "text": "Hassan Jallow 2016.png"
-          },
-          "caption": {
-            "text": "Jallow in 2016."
-          },
-          "office": {
-            "text": "Chief Justice of the Gambia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Justice of the Gambia"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Emmanuel Fagbenle",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emmanuel Fagbenle"
-              }
-            ]
-          },
-          "president": {
-            "text": "Adama Barrow",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adama Barrow"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "15 February 2017"
-          },
-          "office1": {
-            "text": "Prosecutor of the Mechanism for International Criminal Tribunals",
-            "links": [
-              {
-                "text": "Prosecutor of the Mechanism for International Criminal Tribunals",
-                "type": "internal",
-                "page": "Mechanism for International Criminal Tribunals"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "New position",
-            "formatting": {
-              "italic": [
-                "New position"
-              ]
-            }
-          },
-          "successor1": {
-            "text": "Serge Brammertz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Serge Brammertz"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 March 2012"
-          },
-          "term_end1": {
-            "text": "29 February 2016"
-          },
-          "office2": {
-            "text": "Prosecutor of the International Criminal Tribunal for Rwanda",
-            "links": [
-              {
-                "text": "Prosecutor of the International Criminal Tribunal for Rwanda",
-                "type": "internal",
-                "page": "International Criminal Tribunal for Rwanda"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Carla Del Ponte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carla Del Ponte"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Position abolished",
-            "formatting": {
-              "italic": [
-                "Position abolished"
-              ]
-            }
-          },
-          "term_start2": {
-            "text": "15 September 2003"
-          },
-          "term_end2": {
-            "text": "31 December 2016"
-          },
-          "office3": {
-            "text": "Justice of the Supreme Court of the Gambia",
-            "links": [
-              {
-                "text": "Justice of the Supreme Court of the Gambia",
-                "type": "internal",
-                "page": "Supreme Court of the Gambia"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Yahya Jammeh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yahya Jammeh"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "December 1998"
-          },
-          "term_end3": {
-            "text": "July 2002"
-          },
-          "office4": {
-            "text": "Minister of Justice Attorney General of the Gambia",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Minister of Justice (The Gambia)"
-              },
-              {
-                "type": "internal",
-                "page": "Attorney General of the Gambia"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Sir Dawda Jawara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dawda Jawara"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Fafa Edrissa M'Bai"
-          },
-          "predecessor4": {
-            "text": "Fafa Edrissa M'Bai"
-          },
-          "term_start4": {
-            "text": "July 1984"
-          },
-          "term_end4": {
-            "text": "July 1994"
-          },
-          "office5": {
-            "text": "Solicitor General of the Gambia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Solicitor General of the Gambia"
-              }
-            ]
-          },
-          "president5": {
-            "text": "Sir Dawda Jawara"
-          },
-          "successor5": {
-            "text": "Raymond Sock",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raymond Sock"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1982",
-            "number": 1982
-          },
-          "term_end5": {
-            "text": "1984",
-            "number": 1984
-          },
-          "birth_name": {
-            "text": "Hassan Bubacar Jallow"
-          },
-          "birth_date": {
-            "text": "August 14, 1951"
-          },
-          "birth_place": {
-            "text": "Bansang, British Gambia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bansang"
-              },
-              {
-                "type": "internal",
-                "page": "British Gambia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Gambian"
-          },
-          "alma_mater": {
-            "text": "University of Dar es Salaam Nigerian Law School University College London",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Dar es Salaam"
-              },
-              {
-                "type": "internal",
-                "page": "Nigerian Law School"
-              },
-              {
-                "type": "internal",
-                "page": "University College London"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Hassan B. Jallow",
+  "image": "Hassan Jallow 2016.png",
+  "caption": "Jallow in 2016.",
+  "office": "Chief Justice of the Gambia",
+  "predecessor": "Emmanuel Fagbenle",
+  "president": "Adama Barrow",
+  "term_start": "15 February 2017",
+  "office1": "Prosecutor of the Mechanism for International Criminal Tribunals",
+  "predecessor1": "New position",
+  "successor1": "Serge Brammertz",
+  "term_start1": "1 March 2012",
+  "term_end1": "29 February 2016",
+  "office2": "Prosecutor of the International Criminal Tribunal for Rwanda",
+  "predecessor2": "Carla Del Ponte",
+  "successor2": "Position abolished",
+  "term_start2": "15 September 2003",
+  "term_end2": "31 December 2016",
+  "office3": "Justice of the Supreme Court of the Gambia",
+  "president3": "Yahya Jammeh",
+  "term_start3": "December 1998",
+  "term_end3": "July 2002",
+  "office4": "Minister of Justice Attorney General of the Gambia",
+  "president4": "Sir Dawda Jawara",
+  "successor4": "Fafa Edrissa M'Bai",
+  "predecessor4": "Fafa Edrissa M'Bai",
+  "term_start4": "July 1984",
+  "term_end4": "July 1994",
+  "office5": "Solicitor General of the Gambia",
+  "president5": "Sir Dawda Jawara",
+  "successor5": "Raymond Sock",
+  "term_start5": "1982",
+  "term_end5": "1984",
+  "birth_name": "Hassan Bubacar Jallow",
+  "birth_date": "August 14, 1951",
+  "birth_place": "Bansang, British Gambia",
+  "nationality": "Gambian",
+  "alma_mater": "University of Dar es Salaam Nigerian Law School University College London"
 }

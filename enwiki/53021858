@@ -1,188 +1,23 @@
 {
-  "title": "Sheikh Omar Faye",
-  "pageID": 53021858,
-  "categories": [
-    "Living people",
-    "1960 births",
-    "People from Banjul",
-    "Ambassadors of the Gambia to the United States",
-    "Gambian male sprinters",
-    "Athletes (track and field) at the 1984 Summer Olympics",
-    "Olympic athletes of the Gambia",
-    "Athletes (track and field) at the 1982 Commonwealth Games",
-    "Commonwealth Games competitors for the Gambia",
-    "World Athletics Championships athletes for the Gambia",
-    "Sportsperson-politicians",
-    "Defense ministers of the Gambia",
-    "Sports ministers of the Gambia",
-    "Religious affairs ministers of the Gambia"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sheikh Omar Faye (born 10 January 1960) is the current Gambian Minister of Defence, as well as a former diplomat who served as the Gambian Ambassador to the United States from 2015 to 2016, and an athlete who represented the Gambia in the 1984 Olympic games.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "United States"
-                },
-                {
-                  "text": "the Gambia",
-                  "type": "internal",
-                  "page": "the Gambia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sheikh Omar Faye"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1960",
-          "month": "1",
-          "day": "10",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "The Gambia"
-          ],
-          "template": "army"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Sheikh Omar Faye"
-          },
-          "office": {
-            "text": "Minister of Defence"
-          },
-          "president": {
-            "text": "Adama Barrow",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adama Barrow"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Position established"
-          },
-          "term_start": {
-            "text": "22 August 2019"
-          },
-          "office1": {
-            "text": "Gambian Ambassador to the United States",
-            "links": [
-              {
-                "text": "Gambian Ambassador to the United States",
-                "type": "internal",
-                "page": "List of ambassadors of the Gambia to the United States"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Yahya Jammeh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yahya Jammeh"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Neneh Macdouall-Gaye",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Neneh Macdouall-Gaye"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Ebraima Manneh"
-          },
-          "term_start1": {
-            "text": "3 August 2015"
-          },
-          "term_end1": {
-            "text": "19 December 2016"
-          },
-          "office2": {
-            "text": "Minister of Youth, Sports and Religious Affairs"
-          },
-          "president2": {
-            "text": "Yahya Jammeh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yahya Jammeh"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Musa Mohammed"
-          },
-          "term_start2": {
-            "text": "June 2006"
-          },
-          "term_end2": {
-            "text": "September 2007"
-          },
-          "birth_date": {
-            "text": "January 10, 1960"
-          },
-          "birth_place": {
-            "text": "Banjul, the Gambia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Banjul"
-              },
-              {
-                "text": "the Gambia",
-                "type": "internal",
-                "page": "the Gambia"
-              }
-            ]
-          },
-          "allegiance": {
-            "text": "The Gambia",
-            "links": [
-              {
-                "text": "The Gambia",
-                "type": "internal",
-                "page": "undefined"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1983–1994"
-          },
-          "rank": {
-            "text": "Major",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Major"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Sheikh Omar Faye",
+  "office": "Minister of Defence",
+  "president": "Adama Barrow",
+  "predecessor": "Position established",
+  "term_start": "22 August 2019",
+  "office1": "Gambian Ambassador to the United States",
+  "president1": "Yahya Jammeh",
+  "predecessor1": "Neneh Macdouall-Gaye",
+  "successor1": "Ebraima Manneh",
+  "term_start1": "3 August 2015",
+  "term_end1": "19 December 2016",
+  "office2": "Minister of Youth, Sports and Religious Affairs",
+  "president2": "Yahya Jammeh",
+  "predecessor2": "Musa Mohammed",
+  "term_start2": "June 2006",
+  "term_end2": "September 2007",
+  "birth_date": "January 10, 1960",
+  "birth_place": "Banjul, the Gambia",
+  "allegiance": "The Gambia",
+  "serviceyears": "1983–1994",
+  "rank": "Major"
 }

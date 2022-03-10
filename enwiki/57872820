@@ -1,215 +1,29 @@
 {
-  "title": "Mamadou Tangara",
-  "pageID": 57872820,
-  "categories": [
-    "Living people",
-    "People from Banjul",
-    "University of Limoges alumni",
-    "Foreign ministers of the Gambia",
-    "Université catholique de Louvain alumni",
-    "1965 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mamadou Tangara (born 4 June 1965) is a Gambian diplomat and politician who has served as Minister of Foreign Affairs since 2018, having previously served in 2012 and from 2010–2012.",
-              "links": [
-                {
-                  "text": "Minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Minister of Foreign Affairs (The Gambia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mamadou Tangara"
-                ]
-              }
-            },
-            {
-              "text": "Tangara also served as Gambian Permanent Representative to the United Nations from 2017–2018 and from 2013–2016.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Permanent Representative to the United Nations"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Gambian diplomat and politician",
-          "template": "short description"
-        },
-        {
-          "year": "1965",
-          "month": "06",
-          "day": "04",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mamadou Tangara"
-          },
-          "image": {
-            "text": "File:Dr Mamadou Tangara, Minister of Foreign Affairs of The Republic of Gambia cropped.jpg"
-          },
-          "office": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs (The Gambia)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "29 June 2018"
-          },
-          "president": {
-            "text": "Adama Barrow",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adama Barrow"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Ousainou Darboe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ousainou Darboe"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "23 August 2012"
-          },
-          "term_end1": {
-            "text": "2 November 2012"
-          },
-          "president1": {
-            "text": "Yahya Jammeh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yahya Jammeh"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Mambury Njie",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mambury Njie"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Susan Waffa-Ogoo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Susan Waffa-Ogoo"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "June 2010"
-          },
-          "term_end2": {
-            "text": "16 April 2012"
-          },
-          "president2": {
-            "text": "Yahya Jammeh"
-          },
-          "predecessor2": {
-            "text": "Ousman Jammeh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ousman Jammeh"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Mambury Njie"
-          },
-          "office3": {
-            "text": "Permanent Representative of the Gambia to the United Nations",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United Nations"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "3 May 2017"
-          },
-          "term_end3": {
-            "text": "29 June 2018"
-          },
-          "president3": {
-            "text": "Adama Barrow"
-          },
-          "term_start4": {
-            "text": "13 September 2013"
-          },
-          "term_end4": {
-            "text": "16 December 2016"
-          },
-          "president4": {
-            "text": "Yahya Jammeh"
-          },
-          "successor4": {
-            "text": "Samsudeen Sarr (acting)"
-          },
-          "birth_date": {
-            "text": "June 4, 1965"
-          },
-          "birth_place": {
-            "text": "Banjul, The Gambia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Banjul"
-              },
-              {
-                "type": "internal",
-                "page": "The Gambia"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Limoges UCLouvain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Limoges"
-              },
-              {
-                "type": "internal",
-                "page": "UCLouvain"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mamadou Tangara",
+  "image": "File:Dr Mamadou Tangara, Minister of Foreign Affairs of The Republic of Gambia cropped.jpg",
+  "office": "Minister of Foreign Affairs",
+  "term_start": "29 June 2018",
+  "president": "Adama Barrow",
+  "predecessor": "Ousainou Darboe",
+  "term_start1": "23 August 2012",
+  "term_end1": "2 November 2012",
+  "president1": "Yahya Jammeh",
+  "predecessor1": "Mambury Njie",
+  "successor1": "Susan Waffa-Ogoo",
+  "term_start2": "June 2010",
+  "term_end2": "16 April 2012",
+  "president2": "Yahya Jammeh",
+  "predecessor2": "Ousman Jammeh",
+  "successor2": "Mambury Njie",
+  "office3": "Permanent Representative of the Gambia to the United Nations",
+  "term_start3": "3 May 2017",
+  "term_end3": "29 June 2018",
+  "president3": "Adama Barrow",
+  "term_start4": "13 September 2013",
+  "term_end4": "16 December 2016",
+  "president4": "Yahya Jammeh",
+  "successor4": "Samsudeen Sarr (acting)",
+  "birth_date": "June 4, 1965",
+  "birth_place": "Banjul, The Gambia",
+  "alma_mater": "University of Limoges UCLouvain"
 }
