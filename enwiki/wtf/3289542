@@ -1,0 +1,505 @@
+{
+  "title": "Fabakary Jatta",
+  "pageID": 3289542,
+  "categories": [
+    "1952 births",
+    "Living people",
+    "Alliance for Patriotic Reorientation and Construction politicians",
+    "Leaders of political parties in the Gambia",
+    "Members of the Pan-African Parliament from the Gambia",
+    "Jola people",
+    "Speakers of the National Assembly of the Gambia",
+    "Gambian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fabakary Tombong Jatta (born 16 November 1952) is a Gambian politician who has served as Speaker of the National Assembly since 2022 and the leader of the Alliance for Patriotic Reorientation and Construction (APRC) since 2017.",
+              "links": [
+                {
+                  "text": "Gambian",
+                  "type": "internal",
+                  "page": "The Gambia"
+                },
+                {
+                  "text": "Speaker of the National Assembly",
+                  "type": "internal",
+                  "page": "List of Speakers of the National Assembly of the Gambia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alliance for Patriotic Reorientation and Construction"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fabakary Tombong Jatta"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Speaker of the National Assembly of the Gambia, 2022-",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2022",
+            "month": "4",
+            "date": "17",
+            "df": "y",
+            "template": "start date",
+            "text": "April 17, 2022"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "1",
+            "date": "21",
+            "df": "y",
+            "template": "start date",
+            "text": "January 21, 2017"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2007",
+            "month": "1",
+            "date": "27",
+            "df": "y",
+            "template": "start date",
+            "text": "January 27, 2007"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "4",
+            "date": "6",
+            "df": "y",
+            "template": "end date",
+            "text": "April 6, 2017"
+          }
+        },
+        {
+          "year": "1947",
+          "month": "11",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1997",
+            "month": "1",
+            "date": "2",
+            "df": "y",
+            "template": "start date",
+            "text": "January 2, 1997"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "4",
+            "date": "6",
+            "df": "y",
+            "template": "end date",
+            "text": "April 6, 2017"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Fabakary Jatta"
+          },
+          "office": {
+            "text": "Speaker of the National Assembly",
+            "links": [
+              {
+                "text": "Speaker of the National Assembly",
+                "type": "internal",
+                "page": "List of Speakers of the National Assembly of the Gambia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "April 17, 2022"
+          },
+          "predecessor": {
+            "text": "Mariam Jack-Denton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mariam Jack-Denton"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Leader of the Alliance for Patriotic Reorientation and Construction",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alliance for Patriotic Reorientation and Construction"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 21, 2017"
+          },
+          "predecessor1": {
+            "text": "Yahya Jammeh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yahya Jammeh"
+              }
+            ]
+          },
+          "office2": {
+            "text": "National Assembly Majority Leader",
+            "links": [
+              {
+                "text": "National Assembly Majority Leader",
+                "type": "internal",
+                "page": "National Assembly of the Gambia"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "January 27, 2007"
+          },
+          "term_end2": {
+            "text": "April 6, 2017"
+          },
+          "predecessor2": {
+            "text": "Churchill Baldeh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Churchill Baldeh"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Kebba K. Barrow",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kebba K. Barrow"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 16, 1947"
+          },
+          "birth_place": {
+            "text": "Albreda, Gambia Colony and Protectorate",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albreda"
+              },
+              {
+                "type": "internal",
+                "page": "Gambia Colony and Protectorate"
+              }
+            ]
+          },
+          "party": {
+            "text": "Alliance for Patriotic Reorientation and Construction",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alliance for Patriotic Reorientation and Construction"
+              }
+            ]
+          },
+          "blank1": {
+            "text": "Ethnicity"
+          },
+          "data1": {
+            "text": "Jola",
+            "links": [
+              {
+                "text": "Jola",
+                "type": "internal",
+                "page": "Jola people"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the National Assembly",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly of the Gambia"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "January 2, 1997"
+          },
+          "term_end3": {
+            "text": "April 6, 2017"
+          },
+          "constituency3": {
+            "text": "Serekunda East",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Serekunda"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Seedy Njie"
+          },
+          "president": {
+            "text": "Adama Barrow",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adama Barrow"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-04-17",
+          "title": "Hon Fabakary Jatta & Hon Seedy Njie takeover Leadership of Sixth Legislature",
+          "url": "https://gainako.com/hon-fabakary-jatta-hon-seedy-njie-takeover-leadership-of-sixth-legislature/",
+          "access-date": "2022-04-18",
+          "website": "GAINAKO",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jatta was born on 16 November 1952 in Albreda, Gambia."
+            },
+            {
+              "text": "He was educated at Armitage High School and Yundum College (1970–1973)."
+            },
+            {
+              "text": "He later worked as a teacher in Bansang from 1973 to 1977 and at Crab Island Junior Secondary School, Banjul from 1977 to 1979, before joining Nigeria Airways, where he became the district accountant.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bansang"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigeria Airways"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Perfect",
+          "first": "David",
+          "date": "27 May 2016",
+          "title": "Historical Dictionary of The Gambia",
+          "url": "https://books.google.com/books?id=9MknDAAAQBAJ&q=235",
+          "publisher": "Rowman & Littlefield",
+          "pages": "235–236",
+          "isbn": "978-1-4422-6526-4",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During the Gambian First Republic (1970–1974), he supported the National Convention Party and was taken to court for allegedly registering to vote in two different constituencies, which makes him look antipathy to the People's Progressive Party.",
+              "links": [
+                {
+                  "text": "National Convention Party",
+                  "type": "internal",
+                  "page": "National Convention Party (Gambia)"
+                },
+                {
+                  "text": "People's Progressive Party",
+                  "type": "internal",
+                  "page": "People's Progressive Party (Gambia)"
+                }
+              ]
+            },
+            {
+              "text": "He joined the APRC party on its establishment in 1996."
+            },
+            {
+              "text": "Jatta was elected as the National Assembly Member (NAM) for Serekunda East in the 1997 parliamentary election and was re-elected in 2002, 2007 and 2012.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly of the Gambia"
+                }
+              ]
+            },
+            {
+              "text": "In 2004, he was appointed as one of the Gambian members in the Pan-African Parliament."
+            },
+            {
+              "text": "He was chosen as the National Assembly Majority Leader by President Yahya Jammeh following the 2007 election."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2010, Jatta was the principal nominator of Abdoulie Bojang for the position of Speaker.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdoulie Bojang"
+                }
+              ]
+            },
+            {
+              "text": "In February 2016, it was announced that Jatta was one of four Gambian parliamentarians also appointed to the Economic Community of West African States (ECOWAS) Parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Economic Community of West African States"
+                }
+              ]
+            },
+            {
+              "text": "Jatta retired as a NAM at the 2017 parliamentary election but became the new APRC party leader instead after the self-exile of former leader Yahya Jammeh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yahya Jammeh"
+                }
+              ]
+            },
+            {
+              "text": "He raised some questions over the conduct of the 2017 election, pointing to irregularities in the conduct of the election and suggesting that some APRC supporters were harassed."
+            },
+            {
+              "text": "He said that the APRC should not be blamed for the actions of Jammeh, saying \"You cannot do collective punishment for people. We believe that the Gambia should move forward.\""
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 17 April 2022, he was appointed by President Adama Barrow as Speaker of the National Assembly following the 2022 elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adama Barrow"
+                },
+                {
+                  "text": "Speaker of the National Assembly",
+                  "type": "internal",
+                  "page": "List of Speakers of the National Assembly of the Gambia"
+                },
+                {
+                  "text": "2022 elections",
+                  "type": "internal",
+                  "page": "2022 Gambian parliamentary election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.electoralgeography.com/en/countries/g/gambia/2007-parliament-election-gambia.html",
+          "title": "The Gambia. Legislative Election, 2007",
+          "website": "Electoral Geography",
+          "access-date": "27 April 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://thepoint.gm/africa/gambia/article/abdoulie-bojang-is-new-speaker",
+          "title": "Abdoulie Bojang is new Speaker",
+          "date": "15 November 2010",
+          "work": "The Point",
+          "access-date": "6 March 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://thepoint.gm/africa/gambia/article/five-gambian-nams-sworn-in-to-serve-in-ecowas-parliament",
+          "title": "Five Gambian NAMs sworn in to serve in ECOWAS Parliament",
+          "date": "22 February 2016",
+          "work": "The Point",
+          "access-date": "6 March 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://thepoint.gm/africa/gambia/article/aprc-raises-eyebrow-over-parliamentary-elections",
+          "title": "APRC raises eyebrow over Parliamentary elections",
+          "date": "13 April 2017",
+          "work": "The Point",
+          "access-date": "27 April 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Ally of ex-Gambian dictator sworn in as parliament speaker",
+          "url": "https://finance.yahoo.com/news/ally-ex-gambian-dictator-sworn-152412642.html",
+          "access-date": "2022-04-18",
+          "website": "finance.yahoo.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "leaders of gambian political parties"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "title": "Yankuba Drammeh",
+  "pageID": 54405138,
+  "categories": [
+    "Living people",
+    "Chiefs of the Defence Staff (The Gambia)",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yankuba Drammeh is a Gambian military officer who is the current Chief of the Defence Staff in the Gambia.",
+              "links": [
+                {
+                  "text": "Chief of the Defence Staff",
+                  "type": "internal",
+                  "page": "Chief of the Defence Staff (The Gambia)"
+                },
+                {
+                  "text": "the Gambia",
+                  "type": "internal",
+                  "page": "the Gambia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yankuba Drammeh"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Gambian military officer",
+          "template": "short description"
+        }
+      ]
+    },
+    {
+      "title": "Military career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "At the time of the 1994 coup d'état, executed by Yahya Jammeh, Drammeh was a Second Lieutenant in the Gambian Army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yahya Jammeh"
+                }
+              ]
+            },
+            {
+              "text": "Like many other officers not involved in the coup, he was detained in the Mile II Central Prison but later released and restored to his previous role."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Drammeh was a brigadier general and Deputy Chief of the Defence Staff prior to his dismissal from the army by Yahya Jammeh on 30 November 2009.",
+              "links": [
+                {
+                  "text": "brigadier general",
+                  "type": "internal",
+                  "page": "Brigadier general"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yahya Jammeh"
+                }
+              ]
+            },
+            {
+              "text": "He was arrested and detained while links to Lang Tombong Tamba's alleged attempted coup were explored.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lang Tombong Tamba"
+                }
+              ]
+            },
+            {
+              "text": "He was cleared of any wrongdoing and was re-instated on 2 December 2009 as a major general in his previous role.",
+              "links": [
+                {
+                  "text": "major general",
+                  "type": "internal",
+                  "page": "Major general"
+                }
+              ]
+            },
+            {
+              "text": "In February 2010, he was reassigned from the military to the diplomatic service, first as Deputy Ambassador to Turkey and then as Consul-General in New York.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Turkey"
+                },
+                {
+                  "text": "New York",
+                  "type": "internal",
+                  "page": "New York City"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 29 June 2015, Drammeh was again reinstated as a Major General and Deputy Chief of the Defence Staff, filling a role that had been left vacant since the dismissal of Saikou Seckan in 2013."
+            },
+            {
+              "text": "During the 2016 presidential election campaign, an editorial in The Gambia Echo noted the closeness of Drammeh to Jammeh's campaign, asking why critics were \"totally oblivious to General Drammeh’s close proximity\" to Jammeh.",
+              "formatting": {
+                "italic": [
+                  "The Gambia Echo"
+                ]
+              }
+            },
+            {
+              "text": "In March 2020, he was appointed as the CDS."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://thegambiaecho.com/how-come-no-one-talks-about-deputy-chief-of-defence-staff-gen-y-drammeh/",
+          "title": "How Come No One Talks About Deputy Chief of Defence Staff Gen. Y. Drammeh?",
+          "last": "Sankareh",
+          "first": "Ebrima G.",
+          "date": "10 January 2017",
+          "work": "The Gambia Echo",
+          "access-date": "27 June 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://fatunetwork.net/yankuba-drammeh-reinstated-in-the-gambia-armed-forces-and-appointed-deputy-chief-of-defense-staff/",
+          "title": "Yankuba Drammeh reinstated in the Gambia Armed Forces and Appointed Deputy Chief of Defense Staff",
+          "date": "29 June 2015",
+          "work": "Fatu Network",
+          "access-date": "27 June 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

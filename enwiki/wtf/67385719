@@ -1,0 +1,142 @@
+{
+  "title": "Amie Fabureh",
+  "pageID": 67385719,
+  "categories": [
+    "Living people",
+    "21st-century Gambian women politicians",
+    "21st-century Gambian politicians",
+    "Year of birth missing (living people)",
+    "Alumni of the University of Reading"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amie Fabureh is a Gambian politician who is serving as the Minister of Agriculture.",
+              "links": [
+                {
+                  "text": "Gambian",
+                  "type": "internal",
+                  "page": "Gambian people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Amie Fabureh"
+                ]
+              }
+            },
+            {
+              "text": "She was appointed on 27 March 2019, by President Adama Barrow after working in the ministry for 30 years in different positions including as Training Officer in the Department of Agricultural Development Agency from 2007 to 2009 and Deputy Manager until 2017 when she became Horticulture Technical Services Manager. She was the chairwoman of the National Women's Council (NWC) in 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adama Barrow"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fabureh holds a master's degree in horticulture from the University of Reading in the United Kingdom and a Post Graduate Diploma in Gender and Development from the Management Development Institute, Gambia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Reading"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Gambian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Amie Fabureh",
+          "url": "https://www.gammatters.com/amie-fabureh",
+          "access-date": "2021-04-13",
+          "website": "Gambia-Matters {{!}}",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "This is a moment of stock taking: Agric minister - The Point",
+          "url": "https://thepoint.gm/africa/gambia/headlines/this-is-a-moment-of-stock-taking-agric-minister",
+          "access-date": "2021-04-13",
+          "website": "thepoint.gm",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-05-21",
+          "title": "A joint media statement by Hon. Amie Fabureh, Minister of Agriculture of The Gambia and MsMoshibudiRampedi, FAO Country Representative on food security and nutrition during the COVID19 pandemic",
+          "url": "https://standard.gm/a-joint-media-statement-by-hon-amie-fabureh-minister-of-agriculture-of-the-gambia-and-msmoshibudirampedi-fao-country-representative-on-food-security-and-nutrition-during-the-covid19-pandemic/",
+          "access-date": "2021-04-13",
+          "website": "The Standard Newspaper",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "APANEWS",
+          "title": "Gambian leader makes new ministerial appointments",
+          "url": "http://www.apanews.net/en/news/gambian-leader-appoints-new-health-agriculture-ministers",
+          "access-date": "2021-04-13",
+          "website": "www.apanews.net",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "\"Farmers’ Concerns Will Be Addressed\" Agric. Minister Fabureh – Foroyaa Newspaper",
+          "url": "https://foroyaa.net/farmers-concerns-will-be-addressed-agric-minister-fabureh/",
+          "access-date": "2021-04-13",
+          "website": "foroyaa.net",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Njie",
+          "first": "Lamin",
+          "title": "'He Knows Nothing About The Donkeys': Agriculture Minister Amie Fabureh Says President Barrow Is Not Behind Donkeys Distributed To Farmers – The Fatu Network",
+          "url": "https://fatunetwork.net/he-knows-nothing-about-the-donkeys-agriculture-minister-amie-fabureh-says-president-barrow-is-not-behind-donkeys-distributed-to-farmers/",
+          "access-date": "2021-04-13",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "gambia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
