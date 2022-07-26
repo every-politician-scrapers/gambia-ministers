@@ -57,11 +57,12 @@
             "text": "Badara Joof"
           },
           "office": {
-            "text": "Vice President of The Gambia",
+            "text": "11th Vice-President of the Gambia",
             "links": [
               {
+                "text": "11th Vice-President of the Gambia",
                 "type": "internal",
-                "page": "Vice President of The Gambia"
+                "page": "Vice-President of the Gambia"
               }
             ]
           },
