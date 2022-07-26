@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Reconciliation Party"
+      ],
+      "stated_as": "Leader of the National Reconciliation Party"
+    },
+    "P580": "1996",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of the Gambia",
+        "Upper Saloum"
+      ],
+      "stated_as": "National Assembly Member\nfor Upper Saloum"
+    },
+    "P580": "1997-01-02",
+    "P582": "2005-06",
+    "P1366": {
+      "links": [
+        "Sainey Mbaye"
+      ],
+      "stated_as": "Sainey Mbaye"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Tourism and Culture (The Gambia)"
+      ],
+      "stated_as": "Minister of Tourism and Culture"
+    },
+    "P580": "2017-02-01",
+    "P1365": {
+      "links": [
+        "Benjamin A. Roberts"
+      ],
+      "stated_as": "Benjamin A. Roberts"
+    }
+  }
+]

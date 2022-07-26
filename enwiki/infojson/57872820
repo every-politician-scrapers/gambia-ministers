@@ -1,0 +1,87 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (The Gambia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2010-06",
+    "P1365": {
+      "links": [
+        "Ousman Jammeh"
+      ],
+      "stated_as": "Ousman Jammeh"
+    },
+    "P582": "2012-04-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mambury Njie"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (The Gambia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2012-08-23",
+    "P1365": {
+      "links": [
+        "Mambury Njie"
+      ],
+      "stated_as": "Mambury Njie"
+    },
+    "P582": "2012-11-02",
+    "P1366": {
+      "links": [
+        "Susan Waffa-Ogoo"
+      ],
+      "stated_as": "Susan Waffa-Ogoo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United Nations"
+      ],
+      "stated_as": "Permanent Representative of the Gambia to the United Nations"
+    },
+    "P580": "2013-09-13",
+    "P582": "2016-12-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Samsudeen Sarr (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United Nations"
+      ],
+      "stated_as": "Permanent Representative of the Gambia to the United Nations"
+    },
+    "P580": "2017-05-03",
+    "P582": "2018-06-29"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (The Gambia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2018-06-29",
+    "P1365": {
+      "links": [
+        "Ousainou Darboe"
+      ],
+      "stated_as": "Ousainou Darboe"
+    }
+  }
+]

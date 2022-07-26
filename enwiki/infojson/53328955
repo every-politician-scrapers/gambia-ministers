@@ -1,0 +1,28 @@
+[
+  {
+    "office": {
+      "links": [
+        "The Gambia",
+        "Education Minister"
+      ],
+      "stated_as": "The Gambia Minister of Education"
+    },
+    "P580": "2017-02-22",
+    "P582": "2022-05-04"
+  },
+  {
+    "office": {
+      "links": [
+        "Vice-President of the Gambia"
+      ],
+      "stated_as": "11th Vice-President of the Gambia"
+    },
+    "P580": "2022-05-04",
+    "P1365": {
+      "links": [
+        "Isatou Touray"
+      ],
+      "stated_as": "Isatou Touray"
+    }
+  }
+]

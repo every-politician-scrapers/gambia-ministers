@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Youth, Sports and Religious Affairs"
+    },
+    "P580": "2006-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Musa Mohammed"
+    },
+    "P582": "2007-09"
+  },
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of the Gambia to the United States"
+      ],
+      "stated_as": "Gambian Ambassador to the United States"
+    },
+    "P580": "2015-08-03",
+    "P1365": {
+      "links": [
+        "Neneh Macdouall-Gaye"
+      ],
+      "stated_as": "Neneh Macdouall-Gaye"
+    },
+    "P582": "2016-12-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ebraima Manneh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2019-08-22",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]
