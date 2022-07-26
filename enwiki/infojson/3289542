@@ -1,0 +1,64 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of the Gambia"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "1997-01-02",
+    "P582": "2017-04-06"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of the Gambia"
+      ],
+      "stated_as": "National Assembly Majority Leader"
+    },
+    "P580": "2007-01-27",
+    "P1365": {
+      "links": [
+        "Churchill Baldeh"
+      ],
+      "stated_as": "Churchill Baldeh"
+    },
+    "P582": "2017-04-06",
+    "P1366": {
+      "links": [
+        "Kebba K. Barrow"
+      ],
+      "stated_as": "Kebba K. Barrow"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Alliance for Patriotic Reorientation and Construction"
+      ],
+      "stated_as": "Leader of the Alliance for Patriotic Reorientation and Construction"
+    },
+    "P580": "2017-01-21",
+    "P1365": {
+      "links": [
+        "Yahya Jammeh"
+      ],
+      "stated_as": "Yahya Jammeh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Speakers of the National Assembly of the Gambia"
+      ],
+      "stated_as": "Speaker of the National Assembly"
+    },
+    "P580": "2022-04-17",
+    "P1365": {
+      "links": [
+        "Mariam Jack-Denton"
+      ],
+      "stated_as": "Mariam Jack-Denton"
+    }
+  }
+]

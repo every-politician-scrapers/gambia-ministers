@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Secretary General Head of the Civil Service"
+    },
+    "P580": "2005-06",
+    "P582": "2006-10"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Economic Planning and Industrial Development"
+    },
+    "P580": "2010-07",
+    "P582": "2011-02"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance and Economic Affairs (Gambia)"
+      ],
+      "stated_as": "Minister of Finance and Economic Affairs"
+    },
+    "P580": "2011-01-27",
+    "P1365": {
+      "links": [
+        "Abdou Kolley"
+      ],
+      "stated_as": "Abdou Kolley"
+    },
+    "P582": "2012-04-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Abdou Kolley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (The Gambia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2012-04-23",
+    "P1365": {
+      "links": [
+        "Mamadou Tangara"
+      ],
+      "stated_as": "Mamadou Tangara"
+    },
+    "P582": "2012-08-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mamadou Tangara"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance and Economic Affairs (Gambia)"
+      ],
+      "stated_as": "Minister of Finance and Economic Affairs"
+    },
+    "P580": "2018-07-09",
+    "P1365": {
+      "links": [
+        "Amadou Sanneh"
+      ],
+      "stated_as": "Amadou Sanneh"
+    }
+  }
+]

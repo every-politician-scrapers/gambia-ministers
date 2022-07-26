@@ -1,0 +1,110 @@
+[
+  {
+    "office": {
+      "links": [
+        "Solicitor General of the Gambia"
+      ],
+      "stated_as": "Solicitor General of the Gambia"
+    },
+    "P580": "1982",
+    "P582": "1984",
+    "P1366": {
+      "links": [
+        "Raymond Sock"
+      ],
+      "stated_as": "Raymond Sock"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (The Gambia)",
+        "Attorney General of the Gambia"
+      ],
+      "stated_as": "Minister of Justice Attorney General of the Gambia"
+    },
+    "P580": "1984-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Fafa Edrissa M'Bai"
+    },
+    "P582": "1994-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Fafa Edrissa M'Bai"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Court of the Gambia"
+      ],
+      "stated_as": "Justice of the Supreme Court of the Gambia"
+    },
+    "P580": "1998-12",
+    "P582": "2002-07"
+  },
+  {
+    "office": {
+      "links": [
+        "International Criminal Tribunal for Rwanda"
+      ],
+      "stated_as": "Prosecutor of the International Criminal Tribunal for Rwanda"
+    },
+    "P580": "2003-09-15",
+    "P1365": {
+      "links": [
+        "Carla Del Ponte"
+      ],
+      "stated_as": "Carla Del Ponte"
+    },
+    "P582": "2016-12-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mechanism for International Criminal Tribunals"
+      ],
+      "stated_as": "Prosecutor of the Mechanism for International Criminal Tribunals"
+    },
+    "P580": "2012-03-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New position"
+    },
+    "P582": "2016-02-29",
+    "P1366": {
+      "links": [
+        "Serge Brammertz"
+      ],
+      "stated_as": "Serge Brammertz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Justice of the Gambia"
+      ],
+      "stated_as": "Chief Justice of the Gambia"
+    },
+    "P580": "2017-02-15",
+    "P1365": {
+      "links": [
+        "Emmanuel Fagbenle"
+      ],
+      "stated_as": "Emmanuel Fagbenle"
+    }
+  }
+]
