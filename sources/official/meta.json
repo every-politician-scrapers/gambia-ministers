@@ -4,17 +4,20 @@
       "id": "Q1005"
     },
     "cabinet": {
-      "id": "Q28735090",
-      "start": "2017-01-19",
+      "id": "Q111908762",
+      "start": "2022-05-04",
       "parent": "Q2137664"
     },
-    "source": {
-        "url":   "https://www.op.gov.gm/cabinet",
-        "title": "The Cabinet | Office of The President | State House of The Gambia",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://www.op.gov.gm/cabinet",
+        "P1476": {
+            "text": "The Cabinet | Office of The President | State House of The Gambia",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/gambia-ministers"
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in the Gambia"
+    }
 }
