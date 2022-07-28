@@ -1,2 +1,3 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q28735090,Cabinet of Adama Barrow,2017-01-19,11,,,,,,,,,,,,,,
+,Q28735090,Cabinet of Adama Barrow,2017-01-19,11,,,2022-05-04,11,,,,,Q111908762,Second Cabinet of Adama Barrow,,,Q111908762,Second Cabinet of Adama Barrow
+,Q111908762,Second Cabinet of Adama Barrow,2022-05-04,11,,,,,,,Q28735090,Cabinet of Adama Barrow,,,Q28735090,Cabinet of Adama Barrow,,
